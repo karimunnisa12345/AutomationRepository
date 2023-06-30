@@ -1,3 +1,7 @@
 This is the first sample text file.
 This is modified from github
 check once
+
+This is modified from local git repository
+check again once
+
